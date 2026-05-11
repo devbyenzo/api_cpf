@@ -64,7 +64,6 @@ python app.py
 📦 Consulta-CPF
  ┣ 📜 app.py
  ┣ 📜 .env
- ┣ 📜 .gitignore
  ┗ 📜 README.md
 ```
 
